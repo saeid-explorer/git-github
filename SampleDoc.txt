@@ -1,3 +1,7 @@
 This is a Sample Document
 
 This file is changed because of a BUG.
+
+And another bug.
+
+New Line
