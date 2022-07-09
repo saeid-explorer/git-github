@@ -4,4 +4,4 @@ This file is changed because of a BUG.
 
 And another bug.
 
-New Line
+Testing GIT Tagging
